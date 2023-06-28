@@ -1,7 +1,7 @@
 {
-    "name": "purpOLED",
+    "name": "sewerslvt",
     "version": "1.0",
-    "description": "AMOLED Theme for dark mode with some nice purple accents",
+    "description": "i luv jvne",
     "authors": [
       {
         "name": "RyanFol#0001",
@@ -133,8 +133,8 @@
   },
    
     "background": {
-      "url": "https://i.redd.it/d596ve0ibhw21.jpg",
-      "blur": 1,
+      "url": "https://cdn.discordapp.com/attachments/963907244515274803/1066230410712973362/RDT_20230120_2238168598990630109520205.jpg",
+      "blur": 0,
       "alpha": 0.5
   
     },
